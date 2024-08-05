@@ -1,0 +1,283 @@
+
+
+.poppins-regular{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.navbar{
+    height: 5rem;
+    background-color: white;
+}
+
+.fa-compass {
+    color: #fe424d !important;
+    font-size: 1.5rem !important;
+}
+
+.fa-user{
+    color: #fe424d !important;
+    font-size: 0.8rem !important;
+}
+.nav-link{
+    color: #222222  !important;
+}
+
+.nav-link:hover{
+    color: #fe424d !important;
+}
+
+
+.card-img-top{
+    border-radius: 1rem !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+
+.card-body{
+    padding: 0 !important;
+}
+
+.card-text p {
+    font-weight: 500 !important;
+}
+
+.listing-link{
+    text-decoration: none !important;
+}
+
+.card-img-overlay{
+    opacity: 0;
+}
+
+.card-img-overlay:hover{
+    opacity: 0.2;
+    background-color: white;
+}
+
+.newpage{
+    padding: 7px;
+}
+
+.navbar{
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.2) !important;
+    border-radius: 20px;
+    margin: 30px; 
+}
+
+.card-img-top{
+    box-shadow: 0px 15px 15px rgba(0,0,0,0.2) !important;
+}
+
+.edit-btn{
+    padding: 3px 8px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(89, 183, 223);
+    border: none;
+}
+
+.btnx{
+    background-color:#fe424d;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    margin-top: 20px;
+    margin-left:45%;
+    padding: 5px;
+}
+
+.delete-btn{
+    background-color:#fe424d;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    /* margin-top: 20px;*/
+    padding: 2px;
+
+}
+
+.show-btns{
+    display: flex;
+}
+
+.del-btn{
+    margin-left: 20px;
+
+}
+
+.show-img{
+    height: 30vh;
+    
+}
+
+#show-txt{
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.fa-heart{
+    color: red !important;
+    font-size: 4rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.f-info-links a {
+    text-decoration: none;
+    color: #222222;
+}
+
+.f-info-links a:hover{
+    text-decoration: underline;
+    color: #fe424d;
+}
+
+.f-info{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:space-evenly;
+    background-color: #ebebeb;
+    height: 8rem;
+}
+
+.f-info-links, .f-info-socials {
+    width: 100%;
+}
+
+.f-info-socials i {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+
+.f-info-socials i:hover {
+    color: #fe424d;
+}
+
+.error-img img{
+    height: 400px;
+    margin-left: 300px;
+}
+
+.fa-right-from-bracket{
+    color: #fe424d;
+    margin-left: 12px;
+    font-size: 1.5rem;
+}
+
+.fa-right-from-bracket:hover{
+    opacity: 0.5;
+    background-color: white;
+}
+
+
+.Review{
+    margin-top: 10px !important;
+}
+
+.listing-card {
+    border: none !important;
+    margin-bottom: 2rem;
+}
+
+.rate{
+    margin-left: 50px;
+
+}
+
+
+#review-box{
+    border-radius: 30px;
+    border-color: gray;
+    padding-inline-start: 35px;
+    width: 300px;
+}
+
+
+
+.btnxx{
+    border: none;
+    background-color: white;
+    padding-left: 40%;
+}
+
+ #btn-search{
+    background-color: #fe424d;
+    color: white;
+    border-radius: 10rem;
+  }
+  #btn-search:hover{
+    background-color: #fe424d;
+    color: white;
+    border-radius: 10rem;
+  }
+  .btn-search i {
+    display: inline;
+    margin-right: 0.5rem;
+  }
+  #search-box{
+    border-radius: 3rem;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+  }
+
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.filter{
+    text-align: center;
+    margin-right: 2.5rem;
+}
+.filter:hover{
+    color: #fe424d;
+    cursor: pointer;
+    transform: translate(-0px, -3px);
+
+}
+.filter p{
+    font-size: 0.8rem;
+}
+.tax-info {
+    display:none;
+}
+.tax-toggle {
+    border: 1px solid black;
+    border-radius: 1rem;
+    height: 3.25rem;
+    padding: 1rem;
+    margin-left: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.card-title{
+    font-weight: 400;
+    font-size: medium;
+    padding-left: 1rem;
+}
+
+.card-text {
+padding-left: 1rem;
+}
+
+.book-btn{
+    margin-left: 7px ;
+}
+
+.delete-btn{
+    background-color:#fe424d;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    /* margin-top: 20px;*/
+    padding: 2px;
+    
+}
